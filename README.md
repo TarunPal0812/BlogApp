@@ -16,19 +16,16 @@ A clean, modern, and user-friendly blog website designed to share articles, idea
 ## Technologies Used
 
 - **Frontend**:
-  - HTML5
-  - CSS3 (Flexbox, Grid)
-  - JavaScript (ES6+)
-  - React.js or Vue.js (depending on choice)
-  - Tailwind CSS (or any other preferred CSS framework)
+  - React.js 
+  - Tailwind CSS 
 
 - **Backend**:
   - Node.js with Express.js (for RESTful API)
-  - Database: MongoDB (or SQL database of your choice)
+  - Database: MongoDB 
   - Authentication: JWT (JSON Web Tokens) for user authentication
 
 - **Deployment**:
-  - Hosting: Vercel, Netlify, or any cloud platform of your choice
+  - Hosting: Vercel, Netlify
   - Backend Deployment: Heroku, AWS, or DigitalOcean
   - CI/CD Integration: GitHub Actions, CircleCI, etc.
 
